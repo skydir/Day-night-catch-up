@@ -1,0 +1,24 @@
+body
+{
+	background: #333;
+}
+
+canvas
+{
+	display: block;
+	margin: 30px auto 0px;
+}
+
+#gameName
+{
+	color: #fff;
+	font-family: "HelveticaNeue-UltraLight";
+	font-size: 24px;
+	text-align: center;
+}
+
+#players, #stats ,#setka
+{
+	display: block;
+	margin: -500px auto 0px;
+}
